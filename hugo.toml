@@ -1,0 +1,4 @@
+baseURL = 'https://alugandia.es/'
+languageCode = 'es-es'
+title = 'Alugandia - Almacen y Sistemas de Aluminio'
+theme = 'ananke'
